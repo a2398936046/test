@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T04:43:56.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5NeBI-Qsrn7oNjXkxXMx" version="19.0.1" type="github"><diagram id="gyxdbfac7w9fEoyupBZN" name="第 1 页">7Vpbj9o4FP41kToPoNwvj4SBXe1uV5VGq/YNOYkJ7jhxGpsS+uvXjh1ISKhmVBgGNeIh9vElx+d8/s7hgGbNs+qPEhSbjySBWDP1pNKsR800DVMP+ENI9lLi2qYUpCVK1KSj4An9gEqoK+kWJZB2JjJCMENFVxiTPIcx68hAWZJdd9qa4O5bC5DCnuApBrgv/YwStpFS3/SO8j8hSjfNmw1XHTgDzWR1EroBCdm1RNZCs+YlIUy2smoOsTBeYxe5bnlm9KBYCXP2ogX2l/9AVHxeIX1Z/bUMskn+90Q54zvAW3VgpSzbNxbgeheiCSv+mjAh26geMXinJNs8gYnq7TaIwacCxGJ4x+HAZRuWYTWs3gRLBquzRzAOhuGIgiSDrNzzKWqBp0ypsGT6qr87esZugLNpecV0lRAoNKSHrY8G4w1ls1fYzxqwn4uFodaEn6ltSPfbljQDE1oDfcYnGHZR1dZpxnkrFU8jMKeG608dgz/4xA8xtxKh3kPzBq6wfImc33Mckx5ruQBglOa8LXaCJRcIbyAO9pkayFCSiOVhCbmGQHpa5/2CoJzVxnNCzXkUe225MvK6iq0pK8kznBNM+L6POcnFLmuE8YnoAigw3BMYOH0YGN4QDF6PAhJ9Faxi6hhEEF/Yw9mefhMIsyzd/alTc5A1dGQoc/0UlW37KRS3L/QzZPGm7VhYLr5D6d/alw1TiQkJoJv6iutdLA06vLbSJ44Lhsgg0P45mRARxkg2gERGiiHAthGlmZZjiI9UuSaprEpFHJpmNAZwSveUwWwlV0/FowR4BZIM5YjrD4QSK64LXNWO+HVk6l1kWnofme4AMP3XA5N3FTZfwVZ2j61yEBPKwQYyYe48ouLh+7bfDwO/KWoo5KlFAsp9DRR1u1WeYtgXYrTgzXDzMqC4PaBUFZ58JdEpVCxDd6wRK2+IlYPTr4+Vqwa/EiaIigmu5QUXjX7eGP1uEv0s731HP78f/VKUVyN7KYQkAhUo2ta4qM99HQYL/A5MbGsAJnYfJt61gl3Q/w63CLSZqwVu3TC00NEWjsaDtL8QDX+phVwZvQHuiJ2bZEmDwBngl6sBpyk13En1xDn5dvIOyidNPG9ZsF328Lplj3uob1wB965x4rcr1jte6LahsqHM4ApRi8WA0k5S+JGSf0mZAdzPA5uFtAD5+YRyDTKE9zKlFBQcLrQZ52JfCx+12VLQdBBqviMaYagF8sbosfSNWFSm0QeDB565SDkPzwc5D0PG8TLhKsQoT+UCvZDa6RGIn9P6rh53Mh1HbtFuPAzmuRdImPW1ZIWW7CUm6Kfc/CiTLGV16BKX/0zSfRBLn/TExdmS4xj+rhf+HPuEBoJbh7/zxe+RBd45C4ACSRYwRxa4KxZwnffGAv2i8sgCd8ICKWBwB/aSCYyRCe6KCbzTX8NvzgTOyAR3yAQETCR4j18N7JEK7ooKnNPKmHlrKuj/gDhSwT1RAQP0WXKBNXLBXXGBZ78ZF/Du8e+L9VjrT6DW4n8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T08:38:04.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="44kiKsl6O3rIS1ce1NjA" version="19.0.1" type="github">
+  <diagram id="gyxdbfac7w9fEoyupBZN" name="第 1 页">
+    <mxGraphModel dx="1209" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="14XUabpW_i0FxJF9m-nK-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="280" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;192.168.2.16 (centos7)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px;&quot;&gt;mysql 3306&lt;/font&gt;" name="111" id="14XUabpW_i0FxJF9m-nK-1">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.central_administration_site_sql" parent="1" vertex="1">
+            <mxGeometry x="100" y="300" width="60" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-4" value="nacos&amp;nbsp;8848" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-6" value="xxl-job&amp;nbsp;31053" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px;&quot;&gt;redis 16379&lt;/font&gt;" name="111" id="14XUabpW_i0FxJF9m-nK-7">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.central_administration_site_sql" parent="1" vertex="1">
+            <mxGeometry x="370" y="300" width="60" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-8" value="nginx" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.distribution_point;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="98" y="430" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-9" value="首页后台 80" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="190" y="430" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-10" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="280" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-11" value="192.168.2.17 (centos7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="615" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(18, 18, 18); letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;微软雅黑&quot;&gt;rbac-mgt 8080&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="540" y="290" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(18, 18, 18); letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;微软雅黑&quot;&gt;rbac-api 8082&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="650" y="290" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(18, 18, 18); letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;微软雅黑&quot;&gt;rbac-gateway 8081&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="770" y="290" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(18, 18, 18); letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;微软雅黑&quot;&gt;oa-system-mgt 8084&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="590" y="420" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="14XUabpW_i0FxJF9m-nK-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(18, 18, 18); letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;微软雅黑&quot;&gt;oa-system-task 8083&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.secondary_site;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="740" y="420" width="60" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
